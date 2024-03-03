@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Pradip1010100
+- I am Bsc(Computer Science) student.
 - 👀 I’m interested in Mathematics and Computer science.
 - 🌱 I’m currently learning HTML CSS and JavaScript.
 <!--- 💞️ I’m looking to collaborate on ...
