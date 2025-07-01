@@ -88,14 +88,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradip1010100&layout=compact&theme=radical" />
 </p>
 
+## 🔥 GitHub Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Pradip1010100&theme=radical" />
-</p>
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=Pradip1010100&theme=radical" />
 </p>
 
 ---
