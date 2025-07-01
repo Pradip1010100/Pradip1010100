@@ -1,8 +1,10 @@
 <!-- Typing Header -->
+
 <!-- Graduation Badge -->
 <p align="center">
   <img src="https://img.shields.io/badge/BSc%20Computer%20Science-Graduate-success?style=for-the-badge&logo=google-scholar&logoColor=white" />
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Pradip!;BSc+Computer+Science+Graduate;Android+%7C+Swing+%7C+Web+Developer;Code.+Learn.+Build.+Repeat!" />
@@ -16,12 +18,20 @@
 
 ---
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,html,css,js,php,sqlite,git,linux" />
+</p>
+
+
+---
+
 ## 👨‍💻 About Me
 🎓 I’m a **BSc (Computer Science) Graduate** with strong programming fundamentals and hands-on development experience.  
 💡 I build **Android apps**, **desktop software**, and **web interfaces** that are clean, functional, and user-friendly.  
 🚀 I'm passionate about solving real-world problems with code — from **Java Swing GUIs** to **responsive web pages** and **mobile apps**.
 
 ---
+
 
 ## 🔭 Projects
 
